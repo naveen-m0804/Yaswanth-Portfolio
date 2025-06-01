@@ -11,7 +11,8 @@ or
 ```bash
 npm install
 ```
-
+Start the Development Server
+- Run 
 ```bush
 npm run dev
 ```
